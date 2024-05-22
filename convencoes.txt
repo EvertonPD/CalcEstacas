@@ -1,0 +1,17 @@
+1) Convenções para o tipo de solo
+
+Areia = 1
+Areia Siltosa = 12 
+Areia Siltoargilosa = 123
+Areia argilosa = 13
+Areia argilossiltosa = 132
+Silte = 2
+Silte arenoso = 21
+Silte arenoargiloso = 213
+Silte argiloso = 23
+Silte argiloarenoso = 231
+Argila = 3
+Argila arenosa = 31
+Argila arenossiltosa = 312
+Argila siltosa = 32
+Argila siltoarenosa = 321
